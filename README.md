@@ -9,6 +9,6 @@ Question2
 For q2 run the below command
 . q2.sh
 This will print the 4th field value by using '/' as delimiter.
-using awk printing the non blank fields.
+using awk printing the non blank lines.
 
 
